@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738349322 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pila_dinamica\main.c
+	"primitivas/pila.h"
+
+1738348977 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pila_dinamica\primitivas\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738349182 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pila_dinamica\primitivas\pila.c
+	"pila.h"
+
