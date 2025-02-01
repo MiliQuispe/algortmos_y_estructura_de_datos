@@ -49,7 +49,7 @@ int cargarPilaBin (const char* ruta, tPila *p, unsigned tamDato)
     }
 
     fread(aux,tamDato,1,pf);
-    while(feof(pf))
+    while(!feof(pf))
     {
         ponerEnPila(p,tamDato,aux);
         fread(aux,tamDato,1,pf);
@@ -90,3 +90,29 @@ int cargarPilaTXT (const char* ruta, tPila *p, unsigned tamDato, unsigned tamLin
     fclose(pf);
     return 1;
 }
+
+int cargarArchiboBinPila(const char* ruta, tPila *p, unsigned tamDato)
+{
+    void* aux = malloc(tamDato);
+    if(!aux)
+        return 0;
+
+    FILE*pf= fopen(ruta, "wb");
+    if(!pf)
+    {
+        printf("\nNo se pudo crear el archivo %s", ruta);
+        free(aux);
+        return 0;
+    }
+
+    while(!siEsPilaVacia(p))
+    {
+        sacarEnPila(p,tamDato,aux);
+        fwrite(aux,tamDato,1,pf);
+    }
+
+    free(aux);
+    fclose(pf);
+    return 1;
+}
+

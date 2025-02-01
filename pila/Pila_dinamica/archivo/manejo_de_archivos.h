@@ -15,4 +15,6 @@ int crearArchivoTexto (const char* ruta, const void* datos, unsigned tamDato, un
 int cargarPilaBin (const char* ruta, tPila *p, unsigned tamDato);
 int cargarPilaTXT (const char* ruta, tPila *p, unsigned tamDato, unsigned tamLinea, FormatoExtraer formato);
 
+int cargarArchiboBinPila(const char* ruta, tPila *p, unsigned tamDato);
+
 #endif // MANEJO_DE_ARCHIVOS_H_INCLUDED
