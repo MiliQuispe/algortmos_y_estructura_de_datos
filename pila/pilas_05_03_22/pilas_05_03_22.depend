@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1738510963 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pilas_05_03_22\main.c
+	"pilas.h"
+
+1738510791 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pilas_05_03_22\pilas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1738505875 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pilas_05_03_22\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738506425 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pilas_05_03_22\pila.c
+	"pila.h"
+
+1738510963 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\pila\pilas_05_03_22\pilas.c
+	"pilas.h"
+
