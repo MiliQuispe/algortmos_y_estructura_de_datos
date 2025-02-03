@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1738589904 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\cola.c
+	"cola.h"
+
+1738602947 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1738602961 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\nodo.h
+
+1738607466 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\ejercicio_2_6.c
+	"ejercicio_2_6.h"
+
+1738606973 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\ejercicio_2_6.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"cola.h"
+
+1738602966 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1738607427 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\main.c
+	"ejercicio_2_6.h"
+
+1738349182 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\coladinamica\ejercicio_guia\pila.c
+	"pila.h"
+
