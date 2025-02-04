@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738689334 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\colaestatica\primitivas\cola.c
+	"cola.h"
+
+1738676992 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\colaestatica\primitivas\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738689449 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\cola\colaestatica\primitivas\main.c
+	"cola.h"
+
