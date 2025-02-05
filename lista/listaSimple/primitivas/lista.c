@@ -76,6 +76,46 @@ int insertarAlComienzoLista(tLista *pl, unsigned tamdato, const void* dato)
     return 1;
 }
 
+int losXmejores(tLista *pl, unsigned tamdato,  const void* dato, unsigned ceMax, unsigned *ce, Cmp cmp)
+{
+    tNodo *nue, *elim;
+
+    while(*pl && cmp((*pl)->info, dato) <0)
+    {
+        pl = &(*pl)->sig;
+    }
+    if(*pl ==NULL && ceMax == *ce)
+        return 0;
+
+    if(!(nue= malloc(sizeof(tNodo))) || !(nue->info = malloc(tamdato)))
+    {
+        free(nue);
+        return 0;
+    }
+    memcpy(nue->info, dato, tamdato);
+    nue->tamInfo = tamdato;
+    nue->sig= *pl;
+    *pl = nue;
+
+    if(ceMax > *ce)
+    {
+        *ce = *ce + 1;
+        return 1;
+    }
+
+    while((*pl)->sig !=NULL)
+    {
+        pl = &(*pl)->sig;
+    }
+
+    elim = *pl;
+    *pl =elim->sig;
+    free(elim->info);
+    free(elim);
+    return 2;
+
+}
+
 int sacarEnXposicionLista(tLista *pl, unsigned tamdato,void* dato, unsigned pos)
 {
     tNodo *elim;
@@ -120,6 +160,33 @@ int sacarXvalorLista(tLista *pl, unsigned tamdato, void* dato, Cmp cmp)
 
     free(elim->info);
     free(elim);
+    return 1;
+}
+
+int eliminarApariciones(tLista *pl, unsigned tamDato, void* dato, Cmp cmp)
+{
+    tNodo *elim;
+    int cont=0;
+
+    if(*pl ==NULL)
+        return 0;
+
+    while(*pl)
+    {
+        if(cmp((*pl)->info, dato) ==0)
+        {
+            elim = *pl;
+            *pl =elim->sig;
+            free(elim->info);
+            free(elim);
+            cont ++;
+        }
+        else
+            pl = & (*pl)->sig;
+    }
+
+    if(cont ==0)
+        return -1;
     return 1;
 }
 

@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1738764347 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\lista.c
+1738780079 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\lista.c
 	"lista.h"
 
-1738761159 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\lista.h
+1738779898 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\lista.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1738763608 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\main.c
+1738779948 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\primitivas\main.c
 	"lista.h"
 

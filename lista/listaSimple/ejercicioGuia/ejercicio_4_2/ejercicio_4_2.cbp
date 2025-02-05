@@ -31,6 +31,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../../primitivas/lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../primitivas/lista.h" />
+		<Unit filename="dato.2.bin" />
+		<Unit filename="dato1.bin" />
+		<Unit filename="ejercicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ejercicio.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

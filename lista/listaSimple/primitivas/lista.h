@@ -28,15 +28,20 @@ int siEsListaVacia(const tLista *pl);
 int ponerXposicionLista(tLista *pl, unsigned tamdato, const void* dato, unsigned pos);
 int insertarOrdenadoLista(tLista *pl, unsigned tamdato, const void* dato, Cmp cmp);
 int insertarAlComienzoLista(tLista *pl, unsigned tamdato, const void* dato);
+int losXmejores(tLista *pl, unsigned tamdato, const void* dato, unsigned ceMax, unsigned *ce, Cmp cmp);
 
 int sacarEnXposicionLista(tLista *pl, unsigned tamdato,void* dato, unsigned pos);
 int sacarXvalorLista(tLista *pl, unsigned tamdato, void* dato, Cmp cmp);
+int eliminarApariciones(tLista *pl, unsigned tamDato, void* dato, Cmp cmp);
+
 
 void mapLista(tLista *pl, const void* cond, Accion accion);
+
 
 void ordenarLista(tLista *pl, Cmp cmp);
 tNodo ** buscarMenorLista(tLista *pl, Cmp cmp);
 void intercambiarNodos(tNodo** nodo1, tNodo **nodo2);
+
 
 
 void vaciarLista(tLista *pl);

@@ -21,7 +21,7 @@ int main()
 
     mapLista(&pl,NULL,mostrarEntero); printf("\n");
 
-    ordenarLista(&pl,cmpEntero);
+//    ordenarLista(&pl,cmpEntero);
 
     mapLista(&pl,NULL,mostrarEntero); printf("\n");
 //
