@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1739291785 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\primitivas\listacircular.c
+	"listaCircular.h"
+
+1739282015 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\primitivas\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739291834 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\primitivas\main.c
+	"listaCircular.h"
+
