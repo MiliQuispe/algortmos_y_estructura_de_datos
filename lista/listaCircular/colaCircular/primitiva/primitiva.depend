@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1739301952 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\primitiva\cola.c
+	"cola.h"
+
+1739301588 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\primitiva\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739302073 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\primitiva\main.c
+	"cola.h"
+
