@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1739638012 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\primitivas\arbol.c
+	"arbol.h"
+
+1739636516 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\primitivas\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739638123 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\primitivas\main.c
+	"arbol.h"
+
