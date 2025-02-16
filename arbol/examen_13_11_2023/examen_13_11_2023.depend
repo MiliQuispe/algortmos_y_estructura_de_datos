@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1739739097 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_13_11_2023\lote.c
+	"lote.h"
+
+1739736521 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_13_11_2023\lote.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1739736451 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_13_11_2023\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739737402 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_13_11_2023\main.c
+	"lote.h"
+
+1739738920 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_13_11_2023\arbol.c
+	"arbol.h"
+
