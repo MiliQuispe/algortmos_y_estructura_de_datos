@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1739750929 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\arbol.c
+	"arbol.h"
+
+1739750927 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739750950 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\items.c
+	"items.h"
+
+1739750684 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\items.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"arbol.h"
+
+1739749024 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739749801 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\lista.c
+	"lista.h"
+
+1739750682 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\examen_22_07_2022\main.c
+	"items.h"
+
