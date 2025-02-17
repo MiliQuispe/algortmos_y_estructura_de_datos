@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1739814794 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\arbol.c
+	"arbol.h"
+
+1739813100 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739815582 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\ejercicio_6_6.c
+	"ejercicio_6_6.h"
+
+1739815513 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\ejercicio_6_6.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1739796859 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\indice.c
+
+1739815591 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\arbol\indice\primitivas\main.c
+	"ejercicio_6_6.h"
+
