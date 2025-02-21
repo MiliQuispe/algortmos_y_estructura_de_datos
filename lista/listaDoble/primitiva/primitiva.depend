@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1739375773 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listadoble\primitiva\listadoble.c
+	"listaDoble.h"
+
+1739374693 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listadoble\primitiva\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739375520 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listadoble\primitiva\main.c
+	"listaDoble.h"
+
