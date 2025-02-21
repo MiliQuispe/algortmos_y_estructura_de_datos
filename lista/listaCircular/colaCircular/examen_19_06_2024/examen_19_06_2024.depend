@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1739309656 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\cola.c
+	"cola.h"
+
+1739309657 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739315528 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\juego.c
+	"juego.h"
+
+1739311746 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\lista.c
+	"lista.h"
+
+1739311524 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1739315945 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\main.c
+	"juego.h"
+
+1739313174 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listacircular\colacircular\examen_19_06_2024\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"lista.h"
+
