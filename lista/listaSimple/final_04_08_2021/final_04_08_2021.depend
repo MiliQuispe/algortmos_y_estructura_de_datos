@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1738788602 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\final_04_08_2021\cuenta.c
+	"cuenta.h"
+
+1738788336 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\final_04_08_2021\cuenta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1738788033 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\final_04_08_2021\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738790176 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\final_04_08_2021\lista.c
+	"lista.h"
+
+1738790074 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\lista\listasimple\final_04_08_2021\main.c
+	"cuenta.h"
+
