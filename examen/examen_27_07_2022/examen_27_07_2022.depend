@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1740174650 source:e:\usuarios\alumno\descargas\examen_27_07_2022\lista.c
+	"lista.h"
+
+1740174635 e:\usuarios\alumno\descargas\examen_27_07_2022\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740182889 source:e:\usuarios\alumno\descargas\examen_27_07_2022\main.c
+	"item.h"
+
+1740184664 source:e:\usuarios\alumno\descargas\examen_27_07_2022\item.c
+	"item.h"
+
+1740182889 e:\usuarios\alumno\descargas\examen_27_07_2022\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"arbol.h"
+
+1740182480 source:e:\usuarios\alumno\descargas\examen_27_07_2022\arbol.c
+	"arbol.h"
+
+1740182442 e:\usuarios\alumno\descargas\examen_27_07_2022\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
