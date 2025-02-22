@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1740262347 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021\lista.c
+	"lista.h"
+
+1740255926 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740264589 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021\main.c
+	"maraton.h"
+
+1740263760 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021\maraton.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1740264566 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021\maraton.c
+	"maraton.h"
+
