@@ -37,7 +37,7 @@ int cargarDatosOrdenados(tArbol *pa, void* datos, int li, int ls, void* parametr
     if(li>ls)
         return 1;
 
-    if(!((*pa) = malloc(sizeof(tNodoArbol))) || (tamDato = leer(&(*pa)->info, parametros,m, datos)) ==0)
+    if(!((*pa) = malloc(sizeof(tNodoArbol))) || !(tamDato = leer(&(*pa)->info, parametros,m, datos)))
     {
         free(*pa);
         return 0;
@@ -48,7 +48,7 @@ int cargarDatosOrdenados(tArbol *pa, void* datos, int li, int ls, void* parametr
     (*pa)->tamInfo = tamDato;
 
     respuesta = cargarDatosOrdenados(&(*pa)->izq, datos, li, m - 1, parametros, leer);
-    if(respuesta == 1)
+    if(respuesta != 1)
         return respuesta;
     return cargarDatosOrdenados(&(*pa)->der, datos, m + 1, ls, parametros, leer);
 }

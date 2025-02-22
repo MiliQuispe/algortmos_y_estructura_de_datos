@@ -43,6 +43,8 @@ void itemB()
 //        mapInOrdenArbol(&pa, NULL, mostrarIndice);
         if(crearArchivoIndice("productos.idx",&pa, escribirIndice))
         {
+//            mapInOrdenArbol(&pa, NULL, mostrarIndice);
+
             vaciarArbol(&pa);
             crearArbol(&pa);
             cargarIndice("productos.idx",&pa, sizeof(tIndiceProducto),leerIndiceProducto);
@@ -180,7 +182,7 @@ void escribirIndice (void* info, void* cond)
     tIndiceProducto* indi = (tIndiceProducto*)info;
     FILE* pf = (FILE*)cond;
 
-    fwrite(indi,sizeof(indi), 1, pf);
+    fwrite(indi,sizeof(tIndiceProducto), 1, pf);
 }
 
 void mostrarIndice (void* info, void* cond)
@@ -197,11 +199,11 @@ void mostrarProductto (void* info, void* cond)
 
 int leerIndiceProducto (void** info, void* parametros,unsigned pos, void* pf)
 {
-    int tam = *((int*)parametros);
+    unsigned tam = *((int*)parametros);
 
     if(!(*info = malloc(tam)))
         return 0;
 
-    fseek(pf, tam*pos, SEEK_SET);
+    fseek((FILE*) pf, pos * tam, SEEK_SET);
     return fread(*info, tam, 1, (FILE*)pf);
 }

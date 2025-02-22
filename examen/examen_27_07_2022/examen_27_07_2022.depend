@@ -28,3 +28,32 @@
 	<stdlib.h>
 	<string.h>
 
+1740236995 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\arbol.c
+	"arbol.h"
+
+1740182444 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740236908 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\item.c
+	"item.h"
+
+1740182890 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"arbol.h"
+
+1740174636 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740174652 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\lista.c
+	"lista.h"
+
+1740182890 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_27_07_2022\main.c
+	"item.h"
+
