@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1740318702 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021_b\cuentas.c
+	"cuentas.h"
+
+1740318491 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021_b\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1740318379 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021_b\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740318377 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021_b\lista.c
+	"lista.h"
+
+1740318653 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_04_08_2021_b\main.c
+	"cuentas.h"
+
