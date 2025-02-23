@@ -1,0 +1,9 @@
+	INFORME DE MATERIAS APROBADAS
+-------------DNI: 12345678-------------
+Materias aprobadas: 4	Promedio: 7.000000
+
+Materia   Periodo   	Nota
+FISICA     2006-1  	7
+HUM        2006-1  	8
+MATE 1     2006-2  	4
+MATE 2     2007-1  	9

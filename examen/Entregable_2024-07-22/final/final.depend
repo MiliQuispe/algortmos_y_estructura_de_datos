@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1721673253 source:d:\entregable_2024-07-22\final\arbol.c
+	<Tipos.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Arbol.h>
+
+1721674242 d:\entregable_2024-07-22\include\tipos.h
+
+1721680264 d:\entregable_2024-07-22\include\arbol.h
+	<tipos.h>
+
+1721675210 source:d:\entregable_2024-07-22\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<utilitarias.h>
+	<varias.h>
+	<arbol.h>
+
+1721674462 d:\entregable_2024-07-22\include\utilitarias.h
+	<stdio.h>
+	<arbol.h>
+
+1468261894 d:\entregable_2024-07-22\include\varias.h
+
+1721675221 source:d:\entregable_2024-07-22\final\utilitarias.c
+	<utilitarias.h>
+	<string.h>
+	<varias.h>
+	<ctype.h>
+
+1740351573 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\final\arbol.c
+	<Tipos.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Arbol.h>
+
+1740350749 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\include\tipos.h
+
+1740351557 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\include\arbol.h
+	<tipos.h>
+
+1740352352 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\final\utilitarias.c
+	<utilitarias.h>
+	<string.h>
+	<varias.h>
+	<ctype.h>
+
+1740351699 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\include\utilitarias.h
+	<stdio.h>
+	<arbol.h>
+
+1468261894 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\include\varias.h
+
+1740349822 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\entregable_2024-07-22\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<utilitarias.h>
+	<varias.h>
+	<arbol.h>
+
