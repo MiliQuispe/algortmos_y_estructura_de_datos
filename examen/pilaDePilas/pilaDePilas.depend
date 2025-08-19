@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1740241504 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\main.c
+	"pilaDePilas.h"
+
+1740240892 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\piladepilas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilaD.h"
+	"pilaE.h"
+
+1740151501 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\pilad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740151892 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\pilae.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740237474 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\pilad.c
+	"pilaD.h"
+
+1740242207 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\piladepilas.c
+	"pilaDePilas.h"
+
+1740242413 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\piladepilas\pilae.c
+	"pilaE.h"
+

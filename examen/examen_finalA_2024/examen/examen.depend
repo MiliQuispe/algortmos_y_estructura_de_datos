@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1709009629 source:c:\users\fedep\dropbox\examenesenmaquina\2024-02-27\examen\arbol.c
+
+1709009606 source:c:\users\fedep\dropbox\examenesenmaquina\2024-02-27\examen\cola_dinamica.c
+
+1709009601 source:c:\users\fedep\dropbox\examenesenmaquina\2024-02-27\examen\ferreteria.c
+
+1709009595 source:c:\users\fedep\dropbox\examenesenmaquina\2024-02-27\examen\utilitarias.c
+
+1709009630 source:c:\users\usuario\downloads\proyectoayed\examen\arbol.c
+
+1709009608 source:c:\users\usuario\downloads\proyectoayed\examen\cola_dinamica.c
+
+1709009602 source:c:\users\usuario\downloads\proyectoayed\examen\ferreteria.c
+
+1731978597 source:c:\users\usuario\downloads\proyectoayed\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../include/cola_dinamica.h"
+	"../include/pila_dinamica.h"
+
+1731978037 c:\users\usuario\downloads\proyectoayed\include\cola_dinamica.h
+
+1731978037 c:\users\usuario\downloads\proyectoayed\include\pila_dinamica.h
+
+1731977359 source:c:\users\usuario\downloads\proyectoayed\examen\pila_dinamica.c
+
+1709009596 source:c:\users\usuario\downloads\proyectoayed\examen\utilitarias.c
+
+1709009630 source:c:\users\usuario\downloads\entregable\examen\arbol.c
+
+1709009608 source:c:\users\usuario\downloads\entregable\examen\cola_dinamica.c
+
+1731979382 source:c:\users\usuario\downloads\entregable\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../include/pila_dinamica.h"
+	"../include/cola_dinamica.h"
+
+1731977359 source:c:\users\usuario\downloads\entregable\examen\pila_dinamica.c
+
+1731978037 c:\users\usuario\downloads\entregable\include\pila_dinamica.h
+
+1731978037 c:\users\usuario\downloads\entregable\include\cola_dinamica.h
+
+1709009630 source:c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\examen\arbol.c
+
+1709009608 source:c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\examen\cola_dinamica.c
+
+1733441040 source:c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola_dinamica.h"
+	"pila_dinamica.h"
+
+1733441040 c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\include\cola_dinamica.h
+
+1733441040 c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\include\pila_dinamica.h
+
+1731977359 source:c:\users\laboratorios\onedrive - universidad nacional de la matanza\escritorio\materiales\entregable_ayed\examen\pila_dinamica.c
+
+1709009630 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\examen\arbol.c
+
+1740341514 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\examen\cola_dinamica.c
+	"../include/cola_dinamica.h"
+
+1733441415 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\include\cola_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740345000 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/cola_dinamica.h"
+	"../include/pila_dinamica.h"
+
+1733441344 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\include\pila_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740340505 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_finala_2024\examen\pila_dinamica.c
+	"../include/pila_dinamica.h"
+

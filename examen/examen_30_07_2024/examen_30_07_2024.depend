@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1740361877 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_30_07_2024\listadoble.c
+	"ListaDoble.h"
+
+1740360779 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_30_07_2024\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1740361824 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_30_07_2024\polinomios.c
+	"polinomios.h"
+
+1740360806 c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_30_07_2024\polinomios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaDoble.h"
+
+1740360543 source:c:\users\milagros quispe\documents\github\algortmos_y_estructura_de_datos\examen\examen_30_07_2024\main.c
+	"polinomios.h"
+
